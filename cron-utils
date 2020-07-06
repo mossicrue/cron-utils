@@ -6,4 +6,3 @@ require 'json'
 
 require_relative 'lib/cron_utils'
 require_relative 'lib/option_parser'
-require_relative 'lib/settings'
